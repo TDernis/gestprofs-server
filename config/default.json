@@ -1,0 +1,14 @@
+{
+  "express":{
+    "url": "127.0.0.1",
+    "port": 8082
+  },
+  "db": {
+    "host": "127.0.0.1",
+    "port": 3306,
+    "user": "root",
+    "password": "",
+    "database": "gestprofs"
+  },
+  "privateToken": "031f796adb5c77b5ac7fa88d4ac74898"
+}
